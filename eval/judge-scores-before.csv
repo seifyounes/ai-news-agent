@@ -1,0 +1,51 @@
+n,judge_score,reason
+1,7,Serious agent safety disclosure; official but little direct dev action
+2,7,Useful agent sandboxing news but reader uses Claude Code not Copilot
+3,6,Solid post-merge bots but Teams-only Cursor features
+4,5,Big infra deal with little practical use for a freelancer
+5,8,Official GA feature that directly cuts prompt-cache cost leaks
+6,6,Concrete TTS pricing; niche for this reader's apps
+7,6,Interesting agent commerce opening; limited freelancer angle
+8,4,Vague timeline with no date or specs
+9,5,Repeats agent-overreach theme already covered by item 1
+10,10,New default Claude Code model with lower price; major impact
+11,8,Big API price cuts reshape model cost choices
+12,10,Critical Next.js RCE patch; urgent and directly actionable
+13,6,Useful privacy warning but tool is outside reader's stack
+14,6,New model at same price; moderate relevance
+15,6,Strong open-weight option; secondary source and indirect use
+16,8,Supply-chain flaw affecting Claude Code with clear patch action
+17,5,Preview model from smaller lab; limited practical pull
+18,5,Unconfirmed unnamed-source financial report
+19,8,Official Claude Code changes with practical cost and workflow effects
+20,7,Promising parallel sessions but limited beta via secondary source
+21,8,Official breaking auth change requiring key migration
+22,5,Safety anecdote with no practical takeaway
+23,8,Local Safari MCP lets agents test real Safari rendering
+24,5,Early-access niche model with company-only figures
+25,6,Notable exploit story; low actionability
+26,6,Interesting metric but mostly corporate narrative
+27,5,Affects Codex users not this reader's workflow
+28,6,Ad platform news with modest Shopify client angle
+29,6,Product consolidation; minor relevance to coding work
+30,6,Useful transparency framework; limited direct use
+31,4,Valuation talk with no practical relevance
+32,6,Good engineering lessons but scale far beyond solo work
+33,5,Copilot setting; minor for a Claude Code user
+34,5,Industry gossip with little practical effect
+35,7,Changes crawler defaults that affect client websites
+36,7,Useful official sandbox control; niche setting
+37,6,Major industry statement but no practical action
+38,9,Directly reduces reader's Claude Code capacity; clear impact
+39,5,Orchestrator claims with self-reported benchmarks
+40,6,Interesting multi-agent research; low practicality
+41,8,New agent infrastructure API usable in client apps
+42,6,Large-team feature; less fit for solo freelancer
+43,7,Practical Claude Code additions; mostly power-user features
+44,7,Very cheap open-weight coding model; vendor claims
+45,5,Consumer signup pause; little dev impact
+46,5,Funding news with no direct use
+47,5,Repeats slowdown theme; no practical action
+48,4,European funding round; out of reader's focus
+49,7,Useful fixes for Claude Code users incl Windows sandbox
+50,5,Gated enterprise cyber offerings; little freelancer use

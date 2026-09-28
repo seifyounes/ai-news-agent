@@ -26,14 +26,30 @@ platforms, AI research/product announcements, and credible industry news. Cast a
 
 ## Evaluate each candidate (score 1–10)
 
-Score on: **Freshness** (last ~24h or newly relevant today), **Impact** (does it affect
-developers, freelancers, creators, businesses, users?), **Novelty** (genuinely new, not repeated
-hype), **Practicality** (can it be explained with a real example/use case?), and **Source
-quality** (reliable?).
+Score each criterion **separately**, 1–10:
 
-**Only keep items scoring ≥ 8.** Keep at most **8**. If fewer than 8 clear the bar, keep fewer —
-never pad. Never include an item below 8. Do not fabricate anything; every item must trace to a
-real, linkable source.
+- **Freshness**: announced in the last ~24h (10), this week (6), older and only resurfacing (3).
+- **Impact**: changes what a developer, freelancer or small business does or pays (9–10); affects
+  a narrow group (5–6); industry gossip or a big company's internal news (2–4).
+- **Novelty**: a real launch, release or result (9–10); an update to something already known (5–6);
+  a restatement, opinion piece or roundup of old news (1–3).
+- **Practicality**: you can name a concrete thing the reader could try, change or decide this week
+  (9–10); interesting but no action (5–6); nothing to do with it (1–3).
+- **Source quality**: you opened the primary source with `WebFetch` and it says what you claim
+  (9–10); a reputable outlet reporting on it (7); a blog, aggregator or social post only (≤ 4).
+  If you could not open any source for an item, drop it.
+
+The item's score is the **average of the five, rounded down**. Keep an item only if that score is
+**≥ 8 and no single criterion is below 6**. Most days, most candidates should land at 5–7; a day
+where everything scores 8+ means you are scoring too generously, so go back and re-score.
+
+Calibration: a new Claude Code release with a feature developers can use today is about 9. A model
+release from a major lab with public benchmarks and API access is 8–9. A funding round with no
+product change is about 5. An "AI will change everything" op-ed is about 3. A story repeated from
+earlier in the week with no new facts is about 4.
+
+Keep at most **8**. If fewer clear the bar, keep fewer — never pad. Do not fabricate anything;
+every item must trace to a real, linkable source.
 
 ## Write the file
 
