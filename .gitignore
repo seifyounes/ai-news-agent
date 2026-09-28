@@ -1,0 +1,7 @@
+.env*
+!.env.example
+CLAUDE.md
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
